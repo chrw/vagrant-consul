@@ -1,0 +1,21 @@
+[submodule "modules/staging"]
+	path = modules/staging
+	url = https://github.com/nanliu/puppet-staging
+[submodule "modules/consul"]
+	path = modules/consul
+	url = https://github.com/solarkennedy/puppet-consul
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib
+[submodule "modules/nginx"]
+	path = modules/nginx
+	url = https://github.com/jfryman/puppet-nginx
+[submodule "modules/apt"]
+	path = modules/apt
+	url = https://github.com/puppetlabs/puppetlabs-apt
+[submodule "modules/concat"]
+	path = modules/concat
+	url = https://github.com/puppetlabs/puppetlabs-concat
+[submodule "modules/redis"]
+	path = modules/redis
+	url = https://github.com/echocat/puppet-redis
